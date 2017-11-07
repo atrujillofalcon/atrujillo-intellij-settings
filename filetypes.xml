@@ -1,0 +1,70 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="gz" type="ARCHIVE" />
+      <mapping pattern="tomcat-portal" type="Bat" />
+      <mapping ext="web" type="Dockerfile" />
+      <mapping pattern="event71" type="Images" />
+      <mapping ext="backup0801" type="JavaScript" />
+      <mapping ext="php" type="PHP" />
+      <mapping pattern="dependencias_OSGI" type="PLAIN_TEXT" />
+      <mapping pattern="ejemplo_xml_contenido_generado" type="PLAIN_TEXT" />
+      <mapping pattern="TabNames" type="PLAIN_TEXT" />
+      <mapping pattern="firewall" type="PLAIN_TEXT" />
+      <mapping pattern=".bash_history" type="PLAIN_TEXT" />
+      <mapping pattern="start" type="PLAIN_TEXT" />
+      <mapping pattern="ANALISIS_DATOS_USADOS_EN_SESION" type="PLAIN_TEXT" />
+      <mapping pattern="log" type="PLAIN_TEXT" />
+      <mapping pattern="VideoFuncionalidades" type="PLAIN_TEXT" />
+      <mapping pattern="keystore" type="PLAIN_TEXT" />
+      <mapping pattern="Componente Pestaña" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="CACHE_TO_SERVICEBUILDER" type="PLAIN_TEXT" />
+      <mapping pattern="stop" type="PLAIN_TEXT" />
+      <mapping pattern="custom_icons" type="PLAIN_TEXT" />
+      <mapping pattern="tunneling port" type="PLAIN_TEXT" />
+      <mapping pattern="DESCRIPCION_PROBLEMA_REPLICACION" type="PLAIN_TEXT" />
+      <mapping pattern="decode_credenciales" type="PLAIN_TEXT" />
+      <mapping pattern="CreditoZoom" type="PLAIN_TEXT" />
+      <mapping pattern="start-liferay" type="PLAIN_TEXT" />
+      <mapping pattern="jdbc" type="PLAIN_TEXT" />
+      <mapping pattern="envvars" type="PLAIN_TEXT" />
+      <mapping pattern="magic" type="PLAIN_TEXT" />
+      <mapping pattern="comparing" type="PLAIN_TEXT" />
+      <mapping pattern="instalacion_previsualizacion" type="PLAIN_TEXT" />
+      <mapping pattern="ejemplo_structura" type="PLAIN_TEXT" />
+      <mapping pattern="mjml_template" type="PLAIN_TEXT" />
+      <mapping pattern="changeStatusToFlatRateCustomer" type="PLAIN_TEXT" />
+      <mapping pattern="stop-liferay" type="PLAIN_TEXT" />
+      <mapping pattern="feedly_url" type="PLAIN_TEXT" />
+      <mapping pattern="fichero_pase" type="PLAIN_TEXT" />
+      <mapping pattern="singleProject" type="PLAIN_TEXT" />
+      <mapping pattern="HomepageSlider_template" type="PLAIN_TEXT" />
+      <mapping pattern="pasos" type="PLAIN_TEXT" />
+      <mapping pattern="read" type="PLAIN_TEXT" />
+      <mapping pattern="credenciales" type="PLAIN_TEXT" />
+      <mapping pattern="DescargaFicheroTemplate" type="PLAIN_TEXT" />
+      <mapping pattern="página de listado documento" type="PLAIN_TEXT" />
+      <mapping ext="rpm" type="PLAIN_TEXT" />
+      <mapping ext="access" type="PLAIN_TEXT" />
+      <mapping ext="password" type="PLAIN_TEXT" />
+      <mapping ext="07-02-2016" type="PLAIN_TEXT" />
+      <mapping ext="script" type="PLAIN_TEXT" />
+      <mapping ext="backup" type="PLAIN_TEXT" />
+      <mapping ext="xmlproxy" type="PLAIN_TEXT" />
+      <mapping ext="tmpl" type="PLAIN_TEXT" />
+      <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping ext="original" type="PLAIN_TEXT" />
+      <mapping ext="ymp" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
+      <mapping pattern="Newsletter1ColumnaPlantilla" type="VTL" />
+      <mapping pattern="RS_ANCILLIARIES_TITLE_TMP" type="VTL" />
+      <mapping pattern="testTemplate" type="VTL" />
+      <mapping pattern="testTemplateFixed" type="VTL" />
+      <mapping pattern="Newsletter1Columna" type="XML" />
+    </extensionMap>
+  </component>
+</application>

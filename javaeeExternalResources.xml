@@ -1,0 +1,43 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://java.sun.com/xml/ns/portlet/portlet-app_2_0.xsd" location="$USER_HOME$/.IntelliJIdea2017.3/system/extResources/ba563890_portlet-app_2_0.xsd" />
+    <resource url="http://maven.apache.org/POM/4.0.0" location="$USER_HOME$/.IntelliJIdea15/system/extResources/cbe730b3_maven-v4_0_0.xsd" />
+    <resource url="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.0" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/489cc366_assembly-1.1.0.xsd" />
+    <resource url="http://maven.apache.org/xsd/settings-1.0.0.xsd" location="$USER_HOME$/.IntelliJIdea14/system/extResources/a4f41e22_settings-1.0.0.xsd" />
+    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_0.xsd" location="$USER_HOME$/file:/home/arnaldo/.IntelliJIdea2017.3/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_0.xsd" />
+    <resource url="http://plugins.intellij.net/xstructure/ns/xstructure_1_1.xsd" location="$USER_HOME$/file:/home/arnaldo/.IntelliJIdea2017.3/config/plugins/xstructure/lib/xstructure.jar!/org/sylfra/idea/plugins/xstructure/resources/schemas/xstructure_1_1.xsd" />
+    <resource url="http://tuckey.org/res/dtds/urlrewrite2.6.dtd" location="$USER_HOME$/.IntelliJIdea14/system/extResources/81391b0c_urlrewrite2.6.dtd" />
+    <resource url="http://www.liferay.com/dtd/liferay-display_6_2_0.dtd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/c59ce2f2_liferay-display_6_2_0.dtd" />
+    <resource url="http://www.liferay.com/dtd/liferay-display_7_0_0.dtd" location="$USER_HOME$/.IntelliJIdea2017.3/system/extResources/f014db71_liferay-display_7_0_0.dtd" />
+    <resource url="http://www.liferay.com/dtd/liferay-friendly-url-routes_6_0_0.dtd" location="$USER_HOME$/.IntelliJIdea14/system/extResources/2afe06f8_liferay-friendly-url-routes_6_0_0.dtd" />
+    <resource url="http://www.liferay.com/dtd/liferay-friendly-url-routes_6_2_0.dtd" location="$USER_HOME$/.IntelliJIdea14/system/extResources/94ca7d7a_liferay-friendly-url-routes_6_2_0.dtd" />
+    <resource url="http://www.liferay.com/dtd/liferay-hook_6_0_0.dtd" location="$USER_HOME$/.IntelliJIdea14/system/extResources/4dfdf913_liferay-hook_6_0_0.dtd" />
+    <resource url="http://www.liferay.com/dtd/liferay-hook_6_2_0.dtd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/b7ca6f95_liferay-hook_6_2_0.dtd" />
+    <resource url="http://www.liferay.com/dtd/liferay-layout-templates_7_0_0.dtd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/a6c02207_liferay-layout-templates_7_0_0.dtd" />
+    <resource url="http://www.liferay.com/dtd/liferay-look-and-feel_6_2_0.dtd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/fab1cc3a_liferay-look-and-feel_6_2_0.dtd" />
+    <resource url="http://www.liferay.com/dtd/liferay-look-and-feel_7_0_0.dtd" location="$USER_HOME$/Descargas/liferay-look-and-feel_7_0_0.dtd" />
+    <resource url="http://www.liferay.com/dtd/liferay-plugin-package_6_0_0.dtd" location="$USER_HOME$/.IntelliJIdea14/system/extResources/e5a6d71c_liferay-plugin-package_6_0_0.dtd" />
+    <resource url="http://www.liferay.com/dtd/liferay-plugin-package_6_2_0.dtd" location="$USER_HOME$/.IntelliJIdea14/system/extResources/4f734d9e_liferay-plugin-package_6_2_0.dtd" />
+    <resource url="http://www.liferay.com/dtd/liferay-portlet-app_6_2_0.dtd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/8940ab7e_liferay-portlet-app_6_2_0.dtd" />
+    <resource url="http://www.liferay.com/dtd/liferay-portlet-app_7_0_0.dtd" location="$USER_HOME$/.IntelliJIdea2017.3/system/extResources/b3b8a3fd_liferay-portlet-app_7_0_0.dtd" />
+    <resource url="http://www.liferay.com/dtd/liferay-resource-action-mapping_6_2_0.dtd" location="$USER_HOME$/.IntelliJIdea14/system/extResources/32e5b306_liferay-resource-action-mapping_6_2_0.dtd" />
+    <resource url="http://www.liferay.com/dtd/liferay-service-builder_6_2_0.dtd" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/f82e0273_liferay-service-builder_6_2_0.dtd" />
+    <resource url="http://www.liferay.com/dtd/liferay-service-builder_7_0_0.dtd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/22a5faf2_liferay-service-builder_7_0_0.dtd" />
+    <resource url="http://www.liferay.com/dtd/liferay-workflow-definition_7_0_0.xsd" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/64af4085_liferay-workflow-definition_7_0_0.xsd" />
+    <resource url="http://www.springframework.org/schema/aop" location="$USER_HOME$/.IntelliJIdea2017.3/system/extResources/da084fef_spring-aop-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/beans" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/a32f63cf_spring-beans-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-3.0.xsd" location="$USER_HOME$/.IntelliJIdea2017.3/system/extResources/a32f63cf_spring-beans-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-4.3.xsd" location="$USER_HOME$/.IntelliJIdea2017.3/system/extResources/d83fe593_spring-beans-4.3.xsd" />
+    <resource url="http://www.springframework.org/schema/context" location="$USER_HOME$/.IntelliJIdea2016.3/system/extResources/1db4f4cf_spring-context-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/context/spring-context.xsd" location="$USER_HOME$/.IntelliJIdea2017.3/system/extResources/a93b54e7_spring-context.xsd" />
+    <resource url="http://www.springframework.org/schema/data/mongo/spring-mongo-1.0.xsd" location="$USER_HOME$/.IntelliJIdea2017.3/system/extResources/3303e418_spring-mongo-1.0.xsd" />
+    <resource url="http://www.springframework.org/schema/data/repository/spring-repository-1.0.xsd" location="$USER_HOME$/.IntelliJIdea2017.3/system/extResources/a3a8a12e_spring-repository-1.0.xsd" />
+    <resource url="http://www.springframework.org/schema/mvc" location="$USER_HOME$/.IntelliJIdea2017.3/system/extResources/de84b8ef_spring-mvc-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool-3.0.xsd" location="$USER_HOME$/.IntelliJIdea2017.3/system/extResources/5f59e9a1_spring-tool-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool-4.3.xsd" location="$USER_HOME$/.IntelliJIdea2017.3/system/extResources/946a6b65_spring-tool-4.3.xsd" />
+    <resource url="http://www.springframework.org/schema/util" location="$USER_HOME$/.IntelliJIdea2017.1/system/extResources/35dd368d_spring-util.xsd" />
+    <resource url="http://www.w3.org/2001/xml.xsd" location="$USER_HOME$/.IntelliJIdea2017.3/system/extResources/9b192256_xml.xsd" />
+    <resource url="http://www.zeroturnaround.com" location="$USER_HOME$/.IntelliJIdea14/system/extResources/8ff37141_rebel-2_0.xsd" />
+    <ignored-resource url="http://www.sitemaps.org/schemas/sitemap/0.9" />
+  </component>
+</application>

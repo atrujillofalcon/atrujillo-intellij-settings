@@ -1,0 +1,30 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0cbbe791-ee1c-49d4-b077-311876a24cf6" name="CETELEM_DES" url="http://192.168.32.101">
+        <fileTransfer host="192.168.32.101" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="127f8d52-259b-4142-8bdd-042f38c20199" name="UNBLOGDECODE-LIFERAY" url="http://unblogdecode.es">
+        <fileTransfer host="unblogdecode.es" port="1313" rootFolder="/app" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1313" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="af0e640a-ea92-431f-839c-201f62920ad3" name="UNBLOGDECODE-ROOT" url="http://unblogdecode.es">
+        <fileTransfer host="unblogdecode.es" port="1313" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="1313" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

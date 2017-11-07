@@ -1,0 +1,5 @@
+<templateSet group="Zen HTML">
+  <template name="hdr" value="&lt;header&gt;$END$&lt;/header&gt;" description="&lt;header&gt;...&lt;/header&gt;" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>

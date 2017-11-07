@@ -1,0 +1,42 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
+    <recentFileMasks>
+      <mask>css</mask>
+      <mask>js</mask>
+      <mask>*.s</mask>
+      <mask>*.jsp,+.jsp</mask>
+      <mask>*.jsp,+.js</mask>
+      <mask>*.jsp,+.j</mask>
+      <mask>*.jsp,+.</mask>
+      <mask>*.jsp,+</mask>
+      <mask>*.jsp,</mask>
+      <mask>*.jsp,*</mask>
+      <mask>*.jsp,*.</mask>
+      <mask>*.jsp,*.j</mask>
+      <mask>*.jsp,*.js</mask>
+      <mask>*.jsp,*.jsp</mask>
+      <mask>*.jsp,*.jspf</mask>
+      <mask>*</mask>
+      <mask>*.p</mask>
+      <mask>*.po</mask>
+      <mask>*.pom</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>*.jsp</mask>
+      <mask>*.</mask>
+      <mask>*.gr</mask>
+      <mask>*.grad</mask>
+      <mask>*.gradl</mask>
+      <mask>*.gradle</mask>
+    </recentFileMasks>
+  </component>
+</application>

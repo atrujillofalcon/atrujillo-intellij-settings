@@ -1,0 +1,33 @@
+<application>
+  <component name="libraryTable">
+    <library name="jQuery UI-1.10.2" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+      </properties>
+      <CLASSES />
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="maven-archetype-plugin-2.2">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Descargas/maven-archetype-plugin-2.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ideaLibSources/maven-archetype-plugin-2.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="plexus-utils-3.0.21">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Descargas/plexus-utils-3.0.21.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ideaLibSources/plexus-utils-3.0.21-sources.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
