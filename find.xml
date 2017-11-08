@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jsp" />
     <recentFileMasks>
       <mask>css</mask>
       <mask>js</mask>
@@ -28,14 +29,14 @@
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.jsp</mask>
       <mask>*.</mask>
       <mask>*.gr</mask>
       <mask>*.grad</mask>
       <mask>*.gradl</mask>
       <mask>*.gradle</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>*.jsp</mask>
     </recentFileMasks>
   </component>
 </application>
